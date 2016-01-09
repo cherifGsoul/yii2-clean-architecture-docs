@@ -1,1 +1,1 @@
-# yii2-clean-architecture-docs
+# Clean Architecture implementation with Yii2 framework
